@@ -1,4 +1,4 @@
-# Tugas Pemrograman Jaringan 4
+# Tugas 4 Pemrograman Jaringan
 ## Protocol Format
 
 ![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas4/Screenshot/protokal_format.png)
